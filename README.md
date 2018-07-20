@@ -52,7 +52,7 @@ Jupyter notebook security concerns
 Create at least one diagram of your overall system.
 Security Groups Diagram: 
 
-
+![diagram](diagram.png)
 
 A detailed budget of the costs of running a Jupyter Data Science Notebook Server for three months using at least three different kinds of EC 2 instances.
 
